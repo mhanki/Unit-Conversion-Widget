@@ -1,6 +1,6 @@
 # Unit Conversion Widget
 
-A React component for converting temperature, weight, and length measurements between metric and imperail units.
+A React component for converting temperature, weight, and length measurements into metric or imperial units.
 
 ![](./screenshot.png)
 
